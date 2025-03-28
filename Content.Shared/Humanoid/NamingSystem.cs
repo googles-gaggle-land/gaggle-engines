@@ -46,6 +46,9 @@ namespace Content.Shared.Humanoid
                 case SpeciesNaming.FirstRoman:
                     return Loc.GetString("namepreset-firstlast",
                         ("first", GetFirstName(speciesProto, gender)), ("last", GenerateRomanNumeral()));
+                case SpeciesNaming.FirstQuoteLast: // Gaggle
+                    return Loc.GetString("namepreset-firstquotelast",
+                        ("first", GetFirstName(speciesProto, gender)), ("last", GetLastName(speciesProto)));
                 case SpeciesNaming.FirstLast:
                 default:
                     return Loc.GetString("namepreset-firstlast",
