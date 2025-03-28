@@ -1,8 +1,10 @@
 # Einstein Engines
 
-<p align="center"><img src="https://raw.githubusercontent.com/Simple-Station/Einstein-Engines/master/Resources/Textures/Logo/splashlogo.png" width="512px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/googles-gaggle-land/gaggle-engines/master/Resources/Textures/Logo/splashlogo.png" width="512px" /></p>
 
 ---
+
+Google's Gaggle Land is a fork with a very low (average) quality of contributions. I highly advise against even looking in here if you want quality. Also, what's up with the Russian SS14 developers? They're crazy, those forks are light years ahead... It really is impressive. Anyways, everything else is from the original repo. The only difference between this and that is... Uh... No comment.
 
 Einstein Engines is a hard fork of [Space Station 14](https://github.com/space-wizards/space-station-14) built around the ideals and design inspirations of the Baystation family of servers from Space Station 13 with a focus on having modular code that anyone can use to make the RP server of their dreams.
 Our founding organization is based on a democratic system whereby our mutual contributors and downstreams have a say in what code goes into their own upstream.
